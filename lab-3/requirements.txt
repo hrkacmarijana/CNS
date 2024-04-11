@@ -1,0 +1,4 @@
+cryptography
+pydantic==2.5.3
+pydantic_settings==2.1.0
+requests
